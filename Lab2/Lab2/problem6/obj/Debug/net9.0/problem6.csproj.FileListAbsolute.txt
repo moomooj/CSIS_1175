@@ -1,0 +1,15 @@
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/bin/Debug/net9.0/problem6
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/bin/Debug/net9.0/problem6.deps.json
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/bin/Debug/net9.0/problem6.runtimeconfig.json
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/bin/Debug/net9.0/problem6.dll
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/bin/Debug/net9.0/problem6.pdb
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.AssemblyInfoInputs.cache
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.AssemblyInfo.cs
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.csproj.CoreCompileInputs.cache
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.sourcelink.json
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.dll
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/refint/problem6.dll
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.pdb
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/problem6.genruntimeconfig.cache
+/Users/ojuyeong/Desktop/c#/Lab2/Lab2/problem6/obj/Debug/net9.0/ref/problem6.dll

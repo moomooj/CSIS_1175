@@ -1,0 +1,15 @@
+/Users/ojuyeong/Desktop/c#/lab3/q2/bin/Debug/net9.0/q2
+/Users/ojuyeong/Desktop/c#/lab3/q2/bin/Debug/net9.0/q2.deps.json
+/Users/ojuyeong/Desktop/c#/lab3/q2/bin/Debug/net9.0/q2.runtimeconfig.json
+/Users/ojuyeong/Desktop/c#/lab3/q2/bin/Debug/net9.0/q2.dll
+/Users/ojuyeong/Desktop/c#/lab3/q2/bin/Debug/net9.0/q2.pdb
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.AssemblyInfoInputs.cache
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.AssemblyInfo.cs
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.csproj.CoreCompileInputs.cache
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.sourcelink.json
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.dll
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/refint/q2.dll
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.pdb
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/q2.genruntimeconfig.cache
+/Users/ojuyeong/Desktop/c#/lab3/q2/obj/Debug/net9.0/ref/q2.dll
